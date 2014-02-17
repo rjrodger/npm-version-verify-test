@@ -1,0 +1,19 @@
+{
+  "name": "npm-version-verify-test",
+  "version": "0.0.2",
+  "description": "npm-version-verify-test =======================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rjrodger/npm-version-verify-test.git"
+  },
+  "author": "Richard Rodger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rjrodger/npm-version-verify-test/issues"
+  },
+  "homepage": "https://github.com/rjrodger/npm-version-verify-test"
+}
