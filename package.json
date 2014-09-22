@@ -1,7 +1,7 @@
 {
   "name": "npm-version-verify-test",
-  "version": "0.0.2",
-  "description": "npm-version-verify-test =======================",
+  "version": "0.0.3",
+  "description": "npm-version-verify-test red",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
