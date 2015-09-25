@@ -1,6 +1,6 @@
 {
   "name": "npm-version-verify-test",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "npm-version-verify-test red",
   "main": "index.js",
   "scripts": {
